@@ -265,7 +265,7 @@ article>div {
   }
 
   .nav {
-    position: relative;
+    position: sticky;
     max-width: unset;
   }
 
